@@ -1,4 +1,5 @@
 baseURL = "https://sudorook.gitlab.io/capsule-demo"
+DefaultContentLanguage = "no"
 languageCode = "en-us"
 title = "Capsule Demo"
 description = "Demonstration of features available in Capsule theme for Hugo."
