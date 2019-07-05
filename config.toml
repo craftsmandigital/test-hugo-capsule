@@ -1,0 +1,27 @@
+baseURL = "https://sudorook.gitlab.io/capsule-demo"
+languageCode = "en-us"
+title = "Capsule Demo"
+description = "Demonstration of features available in Capsule theme for Hugo."
+canonifyURLs = true
+
+theme = "capsule"
+editor = "vim"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+enableGitInfo = true
+pygmentsstyle = "tango"
+PygmentsCodeFences = true
+
+[author]
+  name = "sudorook"
+  email = "daemon@nullcodon.com"
+
+[social]
+  github = "sudorook"
+  gitlab = "sudorook"
+
+[params]
+  repo = "https://gitlab.com/sudorook/capsule-demo"
+  share = true
+  searchURL = "https://duckduckgo.com"
+  related = "all"
